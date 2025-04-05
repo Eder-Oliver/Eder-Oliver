@@ -1,4 +1,5 @@
 Sou Eder Oliveira,
+
 Profissional em Tecnologia e Dados em constante aprendizado, com conhecimento em Engenharia de Dados, Big Data, Análise de Dados, Business Intelligence, 
 e em desenvolvimento de compentências nas referidas áreas por meio de um MBA em Big Data pela FIA Business School.
 Dedico-me também ao estudo em Inteligência Artificial (IA) por meio de uma Pós-Graduação pela UFV, e Governança de Dados em conformidade com a Lei Geral de Proteção de Dados (LGPD). 
