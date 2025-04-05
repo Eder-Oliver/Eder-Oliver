@@ -1,4 +1,6 @@
-👋🏿Olá Sou Eder Oliveira,
+👋🏿Olá, Sou Eder Oliveira!
+
+_______________________________________________________________________________________________________________________________________________________________________________________
 
 Profissional em Tecnologia e Dados em constante aprendizado, com conhecimento em Engenharia de Dados, Big Data, Análise de Dados, Business Intelligence, 
 e em desenvolvimento de compentências nas referidas áreas por meio de um MBA em Big Data pela FIA Business School.
