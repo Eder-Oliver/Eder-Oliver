@@ -17,6 +17,11 @@ ________________________________________________________________________________
 
 📩Entre em contato comigo por meio do e-mail: ehsoliveira@gmail.com 
 
+______________________________________________________________________________________________________________________________________________________________________________________
+
+SOFSKILLS: Comunicação, Pesamento crítico a analítico, Proativo.
+
+HARDSKILLS: Análise de Dados - BI / Engenharia de Dados
 
 <!---
 Eder-Oliver/Eder-Oliver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
