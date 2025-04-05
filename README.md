@@ -6,6 +6,7 @@ Sendo capaz de transformar grandes volumes de dados em insights acionáveis, por
 
 
 Tenho interesse em BIG DATA - DATA ENGINEERING | DATA ANALYTICS | PYTHON | SQL | POWER BI | SPARK | AIR FLOW | DBT | MONGO DB | DATABRICKS
+
 Atualmente estudando BIG DATA - DATA ENGINEERING | DATA ANALYTICS | PYTHON | SQL | POWER BI | SPARK | AIR FLOW | DBT | MONGO DB | DATABRICKS
 
 Aberto para novas oportunidades e colaboração em: Projeto de Análise de Dados, BI e Engenharia de Dados
