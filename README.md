@@ -23,7 +23,7 @@ SOFSKILLS: Comunicação, Pesamento crítico a analítico, Proativo.
 
 HARDSKILLS: Análise de Dados - BI / Engenharia de Dados
 
-<!---
+<!--
 Eder-Oliver/Eder-Oliver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
