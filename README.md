@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 📖Atualmente estudando CLOUD COMPUTING | BIG DATA - DATA ENGINEERING | DATA ANALYTICS | PYTHON | SQL | POWER BI | SPARK | AIR FLOW | DBT | MONGO DB | DATABRICKS
 
-🌍Aberto para novas oportunidades e colaboração em: Projeto de Análise de Dados, BI e Engenharia de Dados.
+🌍Aberto à novas oportunidades e colaboração em: Projeto de Análise de Dados, BI e Engenharia de Dados.
 
 📩Entre em contato comigo por meio do e-mail: ehsoliveira@gmail.com 
 
