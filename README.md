@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________________________________________________________
 
-SOFSKILLS: Comunicação, Pesamento crítico a analítico, Proativo.
+SOFSKILLS: Comunicação, Pesamento crítico e analítico, Proativo.
 
 HARDSKILLS: Análise de Dados - BI / Engenharia de Dados
 
