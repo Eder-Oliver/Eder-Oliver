@@ -2,10 +2,11 @@
 
 _______________________________________________________________________________________________________________________________________________________________________________________
 
-Profissional em Tecnologia e Dados em constante aprendizado, com conhecimento em Engenharia de Dados, Big Data, Análise de Dados, Business Intelligence, 
-e em desenvolvimento de compentências nas referidas áreas por meio de um MBA em Big Data pela FIA Business School.
-Dedico-me também ao estudo em Inteligência Artificial (IA) por meio de uma Pós-Graduação pela UFV, e Governança de Dados em conformidade com a Lei Geral de Proteção de Dados (LGPD). 
-Sendo capaz de transformar grandes volumes de dados em insights acionáveis, por meio do desenvolvimento e implementação de soluções de Engenharia de Dados, IA e BI.
+Profissional em Tecnologia e Dados, com experiência em desenvolvimento de soluções de BI, ETL e análise de dados.
+Experiência prática em projetos de extração e transformação de dados, criação de dashboards e automação de processos.
+
+Atuando em projetos de Engenharia de Dados, Análise de Dados e Business Intelligence, aplicando soluções modernas para gerar insights estratégicos e
+impulsionar a tomada de decisão baseada em dados.
 
 ______________________________________________________________________________________________________________________________________________________________________________________
 
