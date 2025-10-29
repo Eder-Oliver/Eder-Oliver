@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 🌍Aberto à novas oportunidades e colaboração em: Projeto de Análise de Dados, BI e Engenharia de Dados.
 
-📩Entre em contato comigo por meio do e-mail: ehsoliveira@gmail.com 
+📩Entre em contato comigo por meio do e-mail: ehsoliveira@gmail.com  / https://www.linkedin.com/in/edersouzaoliveira/ 
 
 ______________________________________________________________________________________________________________________________________________________________________________________
 
