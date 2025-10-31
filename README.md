@@ -16,8 +16,7 @@ Apache Hop | ETL | AirFlow | DBT | Databricks | Power BI | DAX | Looker | Metaba
 ehsoliveira@gmail.com  
   https://www.linkedin.com/in/edersouzaoliveira/ 
 
-<img width="70" height="70" alt="linkedin" src="https://github.com/user-attachments/assets/44627442-c039-4f86-b3fb-c6bd64314a91" />
-________________________________________________________________________________________________________________________
+<img width="70" height="70" alt="linkedin" src="https://github.com/user-attachments/assets/44627442-c039-4f86-b3fb-c6bd64314a91"/>
 
 SOFSKILLS: Comunicação, Pesamento crítico e analítico, Proativo.
 
