@@ -10,15 +10,14 @@ impulsionar a tomada de decisão baseada em dados.
 
 ______________________________________________________________________________________________________________________________________________________________________________________
 
-💡Tenho interesse em BIG DATA - DATA ENGINEERING | DATA ANALYTICS | PYTHON | SQL | POWER BI | SPARK | AIR FLOW | DBT | MONGO DB | DATABRICKS
+Engenheiro de Dados | Analista de Dados - BI | Analista de Sistemas | SQL | NoSQL | Python | Apache Spark - PySpark | 
+Apache Hop | ETL | AirFlow | DBT | Databricks | Power BI | DAX | Looker | Metabase | Tableau | AWS |
 
-📖Atualmente estudando CLOUD COMPUTING | BIG DATA - DATA ENGINEERING | DATA ANALYTICS | PYTHON | SQL | POWER BI | SPARK | AIR FLOW | DBT | MONGO DB | DATABRICKS
+ehsoliveira@gmail.com  
+  https://www.linkedin.com/in/edersouzaoliveira/ 
 
-🌍Aberto à novas oportunidades e colaboração em: Projeto de Análise de Dados, BI e Engenharia de Dados.
-
-📩Entre em contato comigo por meio do e-mail: ehsoliveira@gmail.com  / https://www.linkedin.com/in/edersouzaoliveira/ 
-
-______________________________________________________________________________________________________________________________________________________________________________________
+_______<img width="512" height="512" alt="linkedin" src="https://github.com/user-attachments/assets/44627442-c039-4f86-b3fb-c6bd64314a91" />
+________________________________________________________________________________________________________________________
 
 SOFSKILLS: Comunicação, Pesamento crítico e analítico, Proativo.
 
