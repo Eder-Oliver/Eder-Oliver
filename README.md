@@ -1,4 +1,4 @@
-👋🏿Olá, Sou Eder Oliveira!
+Eder Oliveira
 
 _______________________________________________________________________________________________________________________________________________________________________________________
 
@@ -10,8 +10,9 @@ impulsionar a tomada de decisão baseada em dados.
 
 ______________________________________________________________________________________________________________________________________________________________________________________
 
-Engenheiro de Dados | Analista de Dados - BI | Analista de Sistemas | SQL | NoSQL | Python | Apache Spark - PySpark | 
-Apache Hop | ETL | AirFlow | DBT | Databricks | Power BI | DAX | Looker | Metabase | Tableau | AWS |
+Engenheiro de Dados | Analista de Dados - BI | Analista de Sistemas | 
+SQL | NoSQL | Python | Apache Spark - PySpark | 
+Apache Hop | ETL | AirFlow | DBT | Databricks | Power BI | DAX | Looker Studio | Metabase | Tableau | AWS |
 
  <img width="30" height="30" alt="gmail" src="https://github.com/user-attachments/assets/b308df0a-3bc7-4a49-a67f-07c6fc912023"/> ehsoliveira@gmail.com  
  <img width="30" height="30" alt="linkedin" src="https://github.com/user-attachments/assets/44627442-c039-4f86-b3fb-c6bd64314a91"/> https://www.linkedin.com/in/edersouzaoliveira/ 
