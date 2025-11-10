@@ -5,7 +5,7 @@ ________________________________________________________________________________
 Profissional em Tecnologia e Dados, com experiência em desenvolvimento de soluções de BI, ETL e análise de dados.
 Experiência prática em projetos de extração e transformação de dados, criação de dashboards e automação de processos.
 
-Atuando em projetos de Engenharia de Dados, Análise de Dados e Business Intelligence, aplicando soluções modernas para gerar insights estratégicos e
+Buscando atuar em projetos de Engenharia de Dados, Análise de Dados e Business Intelligence, aplicando soluções modernas para gerar insights estratégicos e
 impulsionar a tomada de decisão baseada em dados.
 
 ______________________________________________________________________________________________________________________________________________________________________________________
