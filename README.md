@@ -16,7 +16,7 @@ Transformo dados brutos em **informações claras, consistentes e acionáveis** 
 - 🏗️ Experiência em pipelines analíticos com camadas **Bronze → Silver → Gold**
 - 📊 Dashboards e indicadores estratégicos em **Power BI, Looker Studio e Tableau**
 - ☁️ Em evolução contínua para **Engenharia de Dados em ambientes Cloud** (AWS, GCP, Azure)
-- 📍 Sete Lagoas – Minas Gerais, Brasil
+- 📍 Belo Horizonte – Minas Gerais, Brasil
 
 ---
 
