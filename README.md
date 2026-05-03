@@ -7,7 +7,7 @@
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 Analytics Engineer com atuação na **FHEMIG – Fundação Hospitalar do Estado de Minas Gerais**, onde aplico soluções de modernização de dados, IA Generativa e automação de processos para otimizar indicadores hospitalares, faturamento e custos.
 
