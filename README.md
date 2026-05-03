@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Eder%20Oliveira&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=Analytics%20Engineer%20%7C%20Data%20Engineering%20%7C%20Health%20%26%20BI&descAlignY=58&descColor=c9d1d9&animation=fadeIn"/>
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Eder+Oliveira;Analytics+Engineer+%7C+Data+Engineering;Health+%2B+Data+%7C+FHEMIG)
 
 </div>
 
