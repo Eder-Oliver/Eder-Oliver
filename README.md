@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Eder+Oliveira;Analytics+Engineer+%7C+Data+Engineering;Health+%2B+Data+%7)
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Eder+Oliveira;Analytics+Engineer+%7C+Data+Engineering;Health+%2B+Data)
 
 </div>
 
