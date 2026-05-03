@@ -20,7 +20,7 @@ Sou movido por aprendizado contínuo, boa comunicação e colaboração, com ate
 Gosto de entender o problema de negócio antes da tecnologia, garantindo que cada solução faça sentido técnico e estratégico.
 ______________________________________________________________________________________________________________________________________________________________________________________
 
-Engenheiro de Dados | Analista de Dados - BI | Analista de Sistemas | 
+Engenheiro de Dados | Analytics Engineer | Analista de Dados - BI | Analista de Sistemas | 
 SQL | NoSQL | Python | Apache Spark - PySpark | 
 Apache Hop | ETL | AirFlow | DBT | Databricks | Power BI | DAX | Looker Studio | Metabase | Tableau | AWS |
 
