@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Analytics Engineer com atuação na **FHEMIG – Fundação Hospitalar do Estado de Minas Gerais**, onde aplico soluções de modernização de dados, IA Generativa e automação de processos para otimizar indicadores hospitalares, faturamento e custos.
+Analytics Engineer com atuação na **FHEMIG – Fundação Hospitalar do Estado de Minas Gerais**, como estagiário em dados, onde aplico soluções de modernização de dados, IA Generativa e automação de processos para otimizar indicadores hospitalares, faturamento e custos.
 
 Transformo dados brutos em **informações claras, consistentes e acionáveis** — entendendo o problema de negócio antes de escolher a tecnologia.
 
